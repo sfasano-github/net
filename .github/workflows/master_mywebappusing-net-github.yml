@@ -1,6 +1,6 @@
 # Simple pipeline to copy specific files to Azure Web App
 
-name: Deploy specific files to Azure Web App
+name: Deploy Web App (NET)
 
 on:
   push:
